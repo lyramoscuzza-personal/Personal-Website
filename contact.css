@@ -1,0 +1,46 @@
+.topnav {
+  background-color: #8ab4ee;
+  overflow: hidden;
+  border-color: white;
+  border-width: 10px;
+  border-style: solid;
+  /*width: 422px; */
+}
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 18px;
+  font-family: 'Montserrat';
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.topnav a.active {
+  background-color: #3f6fc6;
+  color: white;
+}
+
+body {
+    background-color: rgb(245, 243, 206);
+}
+
+.email {
+    display: block;
+    margin-top: 30px;
+    padding: 10px;
+    background-color: white;
+    text-align: center;
+    
+}
+
+.contact-title {
+    font-family: 'Montserrat';
+    font-size: 18px;
+}
